@@ -6,7 +6,7 @@ Paste this into Claude Code:
 Install the skill-install-report skill for me:
 
 1. Run mkdir -p ~/.claude/skills, then clone
-   https://github.com/Mr-heka/skill-install-report into
+   https://github.com/luke-heka/skill-install-report-kit into
    ~/.claude/skills/skill-install-report.
 2. If ~/.claude/skills didn't exist before this session, tell me to restart
    Claude Code so the skill is discovered, and stop there until I do.

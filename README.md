@@ -32,7 +32,7 @@ Copy this folder into your skills directory:
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/Mr-heka/skill-install-report.git ~/.claude/skills/skill-install-report
+git clone https://github.com/luke-heka/skill-install-report-kit.git ~/.claude/skills/skill-install-report
 ```
 
 If `~/.claude/skills` didn't exist before, restart Claude Code so it picks the
